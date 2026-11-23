@@ -30,7 +30,7 @@ Exemplificação de POO em GO
 ```
 
 ## 👋🏽 DEMO
-[REPLIT](https://replit.com/@cleibp/POO-Go) 
+|=>
 
 ## Contatos
 
